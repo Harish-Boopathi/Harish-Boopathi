@@ -19,7 +19,7 @@
 
 => <a href="https://www.srmist.edu.in">![ BIT ](https://img.shields.io/badge/Student-%40BIT-blue)</a>
 
-=><a align="left"> <img src="https://komarev.com/ghpvc/?username=jayaprakash-shanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="jayaprakash-shanmugam" /> </a>
+=><a align="left"> <img src="https://komarev.com/ghpvc/?username=Harish-Boopathi&label=Profile%20views&color=0e75b6&style=flat" alt="Harish-Boopathi" /> </a>
 
 <br>
 
@@ -81,10 +81,10 @@ const Jayaprakash = {
 
 <h4 align="center">My contribution graph</h4>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayaprakash-shanmugam&theme=vue&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaprakash-shanmugam)](https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/README.md)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Boopathi&theme=vue&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish-Boopathi)](https://github.com/Harish-Boopathi/Harish-Boopathi/README.md)
  
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
-![snake gif](https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Harish-Boopathi/Harish-Boopathi/blob/output/github-contribution-grid-snake.gif)
 
     
