@@ -17,7 +17,7 @@
    
 => Fun fact I think I am learning
 
-=> <a href="https://www.srmist.edu.in">![ BIT ](https://img.shields.io/badge/Student-%40BIT-blue)</a>
+=> <a href="https://www.bitsathy.ac.in/">![ BIT ](https://img.shields.io/badge/Student-%40BIT-blue)</a>
 
 =><a align="left"> <img src="https://komarev.com/ghpvc/?username=Harish-Boopathi&label=Profile%20views&color=0e75b6&style=flat" alt="Harish-Boopathi" /> </a>
 
@@ -28,17 +28,15 @@
 ```javascript
 const Harish = {
    pronouns: "he" | "him",
-   code: [Python,Java],
+   code: [Python,C++],
    askMeAbout: ["Data visualization","Machine Learning"],
    technologies: {
        frontEnd: [
-           Tech Names: {"HTML","CSS","JavaScript","ReactJs"}
+           Tech Names: {"HTML","CSS","JavaScript"}
         ],
        backEnd: [
            Tech Name: {"MySQL"}
        ],
-       competitive: [
-           CompilerLang: {"Java"},
   InterpretedLang: {"PYTHON"}
    ]
 };
@@ -46,13 +44,13 @@ const Harish = {
 
 ### Programing Languages:
 
-![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <!-- <p align="right" width="50%"> <a href="#"><img width="450" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a></p>-->
 
 ### Front End:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 <!--  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) -->
 
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
@@ -81,7 +79,7 @@ const Harish = {
 
 <h4 align="center">My contribution graph</h4>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Boopathi&theme=vue&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish-Boopathi)](https://github.com/Harish-Boopathi/Harish-Boopathi/README.md)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Boopathi&theme=vue&hide_border=true)](https://git.io/streak-stats)[![harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish-Boopathi)](https://github.com/Harish-Boopathi/Harish-Boopathi/README.md)
  
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
