@@ -1,7 +1,7 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Jayaprakash</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Harish</p>
 
 <p align="center">
-  <a href="https://github.com/vikashPR"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Aspiring Data Science Enthusiast+;+         while ( ! ( succeed = try () ) ) "></a>
+  <a href="https://github.com/Harish-Boopathi"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Aspiring Data Science Enthusiast+;+         while ( ! ( succeed = try () ) ) "></a>
 
 </p>
  <p align="center">
@@ -26,7 +26,7 @@
 ### aboutMe.Js:
 
 ```javascript
-const Jayaprakash = {
+const Harish = {
    pronouns: "he" | "him",
    code: [Python,Java],
    askMeAbout: ["Data visualization","Machine Learning"],
