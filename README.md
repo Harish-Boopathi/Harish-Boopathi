@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/main/joey%20lawsin.png)](jayaprakash-shanmugam.github.io)
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Jayaprakash</p>
 
 <p align="center">
